@@ -19,7 +19,12 @@
 - ProxyChains
 - Sqlmap
 
-### Descagar / Download
+```
+Autor: R3LI4NT
+Idioma: Español
+```
+
+### Descargar / Download
 
 ![#2197EF](https://via.placeholder.com/15/2197EF/000000?text=+) `Mediafire`
 ➤ https://www.mediafire.com/file/jplcpo8r8k32i0r/RoadToHacking.pdf/file
