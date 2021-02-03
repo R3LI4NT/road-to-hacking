@@ -1,5 +1,4 @@
 # Road To Hacking
-¿Quieres empezar en el mundo hacking? En está revista te enseño los primeros pasos que debes saber para manipular herramientas ensenciales en el ethical hacking.
 
 ![roadtohacking](https://user-images.githubusercontent.com/75953873/106670793-4442fe00-658c-11eb-86b0-04124296ad52.png)
 
