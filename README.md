@@ -18,7 +18,7 @@
 - John the Ripper
 - Wireshark
 - ProxyChains
-- Sqlmap
+- SQLmap
 - NetDiscover
 - Anonsurf
 - TorGhost
