@@ -27,7 +27,7 @@
 - Kismet
 - Bettercap
 - WPScan
-- HC Hydra
+- THC Hydra
 
 ```
 Autor: R3LI4NT
