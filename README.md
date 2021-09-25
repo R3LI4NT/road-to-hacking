@@ -19,6 +19,15 @@
 - Wireshark
 - ProxyChains
 - Sqlmap
+- NetDiscover
+- Anonsurf
+- TorGhost
+- MacChanger
+- Angry IP Scanner
+- Kismet
+- Bettercap
+- WPScan
+- HC Hydra
 
 ```
 Autor: R3LI4NT
@@ -28,7 +37,7 @@ Idioma: Español
 ### Descargar / Download
 
 ![#2197EF](https://via.placeholder.com/15/2197EF/000000?text=+) `Mediafire`
-➤ https://www.mediafire.com/file/jplcpo8r8k32i0r/RoadToHacking.pdf/file
+➤ https://www.mediafire.com/file/kwatxr7w1obh65n/RoadToHacking.pdf/file
 
 ![#FB3027](https://via.placeholder.com/15/FB3027/000000?text=+) `MEGA`
-➤ https://mega.nz/file/TVsSWS4S#Gfv5aWgGRu_Zfe_BqOoN7y-WpDOswz1LxiWBTlmQg-I
+➤ https://mega.nz/file/yeJHzYBS#WFCp4Hv0LuU6nzZ_JwZah_zXfgJeaVJzlKf29uTb_JQ
