@@ -41,3 +41,6 @@ Idioma: Español
 
 ![#FB3027](https://via.placeholder.com/15/FB3027/000000?text=+) `MEGA`
 ➤ https://mega.nz/file/yeJHzYBS#WFCp4Hv0LuU6nzZ_JwZah_zXfgJeaVJzlKf29uTb_JQ
+
+![#FB3027](https://via.placeholder.com/15/FBFF00/000000?text=+) `Online`
+➤ https://www.yumpu.com/es/document/view/65966623/road-to-hacking
