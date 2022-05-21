@@ -3,6 +3,8 @@
 ![roadtohacking](https://user-images.githubusercontent.com/75953873/106670793-4442fe00-658c-11eb-86b0-04124296ad52.png)
 
 ## CONTENIDO:
+
+```
 [+] KALI LINUX:
 	- Introducción y Características
 	- Instalación en VMware
@@ -10,7 +12,7 @@
 
 [+] HERRAMIENTAS
 	[+] NMAP:
-		  - Detección de vulnerabilidades:
+		- Detección de vulnerabilidades:
 			  - Script Safe
 			  - Script Deafult
 		    - Script Vuln
@@ -175,6 +177,8 @@
 [+] WAFW00F:
 		  - ¿Qué es un WAF (Firewall)?
 		  - Identificación de WAF
+
+```
 
 ```
 Autor: R3LI4NT
