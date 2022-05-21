@@ -144,12 +144,12 @@ Utilizar herramientas creadas por otros no te hace un script kiddie. Utilizar he
 		- Reverse Shell
 
 	[+] DIRBUSTER:
-		- Ataque de recorrido de ruta
-		- Escaneo de directorios y archivos web [GUI]
+		- Ataque de recorrido de ruta:
+			- Escaneo de directorios y archivos web [GUI]
 
 	[+] DIRB:
-		- Ataque de recorrido de ruta
-		- Escaneo de directorios y archivos web [TERMINAL]
+		- Ataque de recorrido de ruta:
+			- Escaneo de directorios y archivos web [TERMINAL]
 
 	[+] The Harvester:
 		- Recopilar información de un dominio:
