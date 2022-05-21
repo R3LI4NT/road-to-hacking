@@ -20,7 +20,7 @@
 			- Script Deafult
 		    	- Script Vuln
 			- Script All
-			- Script All
+			- Script Auth
 			- Script Firewall-Bypass
 			- Script HTTP-WAF-Detect
 			- Script FTP-Vsftpd-Backdoor
