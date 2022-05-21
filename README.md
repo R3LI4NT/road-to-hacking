@@ -192,7 +192,6 @@ Páginas: 198
 
 ### Descargar / Download
 
-PESO: 25.6 MB
 MEDIAFIRE: https://www.mediafire.com/file/j25f3wpyaxemzm5/RoadToHacking.pdf/file
 
 MEGA: https://mega.nz/file/AaM3mTjQ#n1osUzPU__cn4duPRwlRhAJw15CwHG5dNzNslmz-VdY
