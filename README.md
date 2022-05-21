@@ -34,149 +34,149 @@
 			- Script HTTP-WordPress-Brute
 			- Script HTTP-WordPress-Enum
 
-[+] AIRCRACK-NG:
-	- Cracking WPA/WPA2-PSK
+	[+] AIRCRACK-NG:
+		- Cracking WPA/WPA2-PSK
 	
-[+] WIFITE:
-	- Cracking PIN WPS	    
+	[+] WIFITE:
+		- Cracking PIN WPS	    
  	    	
-[+] CRUNCH:
-	- Generar diccionarios
+	[+] CRUNCH:
+		- Generar diccionarios
 	
-[+] ETTERCAP:
-	- Ataque MITM
+	[+] ETTERCAP:
+		- Ataque MITM
 
-[+] NIKTO:
-	- Escaneo de vulnerabildiades en servidores web
+	[+] NIKTO:
+		- Escaneo de vulnerabildiades en servidores web
 
-[+] METASPLOIT: 
-	- Exploits, Payloads, Auxiliarys, Encoders
-	- Ejecutar exploit en servidor web HTTP y HTTPS
-	- Vulnerar dispositivo Android
-	- Evadir Antivirus
-	- Capture The Flag
-      	- Explotar vulnerabilidad EternalBlue - Windows
-	- Fuerza Bruta al protocolo SSH
-	- Denegacion de Servicio (Slowloris):
-		- Con Metasploit
-		- Manual
+	[+] METASPLOIT: 
+		- Exploits, Payloads, Auxiliarys, Encoders
+		- Ejecutar exploit en servidor web HTTP y HTTPS
+		- Vulnerar dispositivo Android
+		- Evadir Antivirus
+		- Capture The Flag
+      		- Explotar vulnerabilidad EternalBlue - Windows
+		- Fuerza Bruta al protocolo SSH
+		- Denegacion de Servicio (Slowloris):
+			- Con Metasploit
+			- Manual
 
-[+] JOHN THE RIPPER:
-	- Cracking de usuarios
-	- Cracking de Hashes:
-		- MD4
-		- RipeMD-128
-		- SHA512
+	[+] JOHN THE RIPPER:
+		- Cracking de usuarios
+		- Cracking de Hashes:
+			- MD4
+			- RipeMD-128
+			- SHA512
 
-[+] WIRESHARK:
-	- Sniffing
-	- Protocolos
-	- Filtros
+	[+] WIRESHARK:
+		- Sniffing
+		- Protocolos
+		- Filtros
 
-[+] PROXYCHAINS:
-	- Enrutar tráfico bajo la red TOR #1
+	[+] PROXYCHAINS:
+		- Enrutar tráfico bajo la red TOR #1
 	
-[+] SQLMAP:
-	- Inyección SQL a base de datos
+	[+] SQLMAP:
+		- Inyección SQL a base de datos
 
-[+] SETOOLKIT:
-	- Email Spoofing
-	- QR Code Attack (Phishing)
+	[+] SETOOLKIT:
+		- Email Spoofing
+		- QR Code Attack (Phishing)
 
-[+] NETDISCOVER:
-	- Sondeo de redes inalámbricas
+	[+] NETDISCOVER:
+		- Sondeo de redes inalámbricas
 
-[+] ANONSURF:
-	- Enrutar tráfico bajo la red TOR #2
+	[+] ANONSURF:
+		- Enrutar tráfico bajo la red TOR #2
 	
-[+] TORGHOST:
-	- Enrutar tráfico bajo la red TOR #3
+	[+] TORGHOST:
+		- Enrutar tráfico bajo la red TOR #3
 
-[+] MACCHANGER:
-	- Cambiar dirección MAC
-	- Cambiar dirección MAC a dispositivo NSA
+	[+] MACCHANGER:
+		- Cambiar dirección MAC
+		- Cambiar dirección MAC a dispositivo NSA
 
-[+] ANGRY IP SCANNER:
-	- Escanear direcciones IP y puertos de hosts
+	[+] ANGRY IP SCANNER:
+		- Escanear direcciones IP y puertos de hosts
 
-[+] KISMET:
-	- Detección y rastreo de dispositivos en una red / Wardriving
+	[+] KISMET:
+		- Detección y rastreo de dispositivos en una red / Wardriving
 	
-[+] BETTERCAP:
-	- Módulos
-	- Capturar credenciales (Sniffing)
+	[+] BETTERCAP:
+		- Módulos
+		- Capturar credenciales (Sniffing)
 	    
-[+] WPSCAN:
-	- Detectar vulnerabilidades en WordPress
+	[+] WPSCAN:
+		- Detectar vulnerabilidades en WordPress
 
-[+] THC HYDRA:
-	- Cracking login
-	- Cracking MetaSploitable (SSH) 
+	[+] THC HYDRA:
+		- Cracking login
+		- Cracking MetaSploitable (SSH) 
 
-[+] BURP SUITE:
-	- Método GET y POST
-	- Explotar vulnerabilidad File Upload con Burp Suite + Weevely
+	[+] BURP SUITE:
+		- Método GET y POST
+		- Explotar vulnerabilidad File Upload con Burp Suite + Weevely
 
-[+] ESCALAR PRIVILEGIOS:
-	- Explicación
-	- Abuso de Sudoers 
-	- Abuso de permisos SUID
+	[+] ESCALAR PRIVILEGIOS:
+		- Explicación
+		- Abuso de Sudoers 
+		- Abuso de permisos SUID
 
-[+] HASH-IDENTIFIER:
-	- ¿Qué es un Hash?
-	- Tipos de hashes
-	- Identificación de hash
-	- Hash Cracking MD5 y SHA-1 con JohnTheRipper
+	[+] HASH-IDENTIFIER:
+		- ¿Qué es un Hash?
+		- Tipos de hashes
+		- Identificación de hash
+		- Hash Cracking MD5 y SHA-1 con JohnTheRipper
 
-[+] SEARCHSPLOIT:
-	- ¿Qué es un exploit?
-	- Búsqueda de exploits
+	[+] SEARCHSPLOIT:
+		- ¿Qué es un exploit?
+		- Búsqueda de exploits
 
-[+] NETCAT:
-	- Escaneo de puertos
-	- Transferencia de archivos
-	- Descubrir tipo de servidor web corriendo
-	- Bind Shell
-	- Reverse Shell
+	[+] NETCAT:
+		- Escaneo de puertos
+		- Transferencia de archivos
+		- Descubrir tipo de servidor web corriendo
+		- Bind Shell
+		- Reverse Shell
 
-[+] DIRBUSTER:
-	- Ataque de recorrido de ruta
-	- Escaneo de directorios y archivos web [GUI]
+	[+] DIRBUSTER:
+		- Ataque de recorrido de ruta
+		- Escaneo de directorios y archivos web [GUI]
 
-[+] DIRB:
-	- Ataque de recorrido de ruta
-	- Escaneo de directorios y archivos web [TERMINAL]
+	[+] DIRB:
+		- Ataque de recorrido de ruta
+		- Escaneo de directorios y archivos web [TERMINAL]
 
-[+] The Harvester:
-	- Recopilar información de un dominio:
-	- Búsqueda de correos electrónicos
-	- Identificación de hosts
-	- Direcciones IP y puertos abiertos con Shodan / PyShodan
+	[+] The Harvester:
+		- Recopilar información de un dominio:
+		- Búsqueda de correos electrónicos
+		- Identificación de hosts
+		- Direcciones IP y puertos abiertos con Shodan / PyShodan
 
-[+] MDK4:
-	- Deauthentication / DoS Attack
-	- Beacon Flooding / Fake AP Attack
-	- Authentication / Fake Clients Attack
-	- SSID Probing and Bruteforcing Attack
-	- Michael Countermeasures Exploitation Attack
+	[+] MDK4:
+		- Deauthentication / DoS Attack
+		- Beacon Flooding / Fake AP Attack
+		- Authentication / Fake Clients Attack
+		- SSID Probing and Bruteforcing Attack
+		- Michael Countermeasures Exploitation Attack
 
-[+] MASSCAN:
-	- Escaneo de puertos a alta velocidad
+	[+] MASSCAN:
+		- Escaneo de puertos a alta velocidad
 	
-[+] NCRACK:
-	- Fuerza Bruta:
-	- Cracking SSH Protocol 
-	- Cracking FTP Protocol
-	- Cracking SMB Protocol
+	[+] NCRACK:
+		- Fuerza Bruta:
+		- Cracking SSH Protocol 
+		- Cracking FTP Protocol
+		- Cracking SMB Protocol
 
-[+] STEGHIDE:
-	- Esteganografía:
-		- Incrustar datos en una imagen
-		- Incrustar datos en un audio
+	[+] STEGHIDE:
+		- Esteganografía:
+			- Incrustar datos en una imagen
+			- Incrustar datos en un audio
 
-[+] WAFW00F:
-	- ¿Qué es un WAF (Firewall)?
-	- Identificación de WAF
+	[+] WAFW00F:
+		- ¿Qué es un WAF (Firewall)?
+		- Identificación de WAF
 ```
 
 ```
