@@ -192,11 +192,11 @@ Páginas: 198
 
 ### Descargar / Download
 
-![#2197EF](https://via.placeholder.com/15/2197EF/000000?text=+) `Mediafire`
-➤ https://www.mediafire.com/file/j25f3wpyaxemzm5/RoadToHacking.pdf/file
+PESO: 25.6 MB
+MEDIAFIRE: https://www.mediafire.com/file/j25f3wpyaxemzm5/RoadToHacking.pdf/file
+MEGA: https://mega.nz/file/AaM3mTjQ#n1osUzPU__cn4duPRwlRhAJw15CwHG5dNzNslmz-VdY
+LEER ONLINE: https://www.yumpu.com/es/document/view/66892156/road-to-hacking
+LIBRE DE VIRUS: https://www.virustotal.com/gui/file/042267b904834aee54a0cf2ec8bcd65e99d3e7a18b75d67e1349b4eebc19c250
 
-![#FB3027](https://via.placeholder.com/15/FB3027/000000?text=+) `MEGA`
-➤ 
+![novirus](https://user-images.githubusercontent.com/75953873/169636853-6fecc61b-9e40-499a-aa0e-61f2ecae9bfa.png)
 
-![#FB3027](https://via.placeholder.com/15/FBFF00/000000?text=+) `Online`
-➤ https://www.yumpu.com/es/document/view/66892156/road-to-hacking
