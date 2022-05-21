@@ -187,6 +187,7 @@ Utilizar herramientas creadas por otros no te hace un script kiddie. Utilizar he
 Autor: R3LI4NT
 Idioma: Español
 Peso: 25.6 MB
+Páginas: 198
 ```
 
 ### Descargar / Download
