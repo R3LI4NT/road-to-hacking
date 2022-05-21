@@ -182,6 +182,7 @@
 ```
 Autor: R3LI4NT
 Idioma: Español
+Peso: 25.5 MB
 ```
 
 ### Descargar / Download
