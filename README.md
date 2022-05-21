@@ -11,173 +11,172 @@
 	- Comandos de la terminal
 
 [+] HERRAMIENTAS
+	[+] SHRED - AntiForense:
+		- Borrado de datos seguros
+		
 	[+] NMAP:
 		- Detección de vulnerabilidades:
-			  - Script Safe
-			  - Script Deafult
-		    - Script Vuln
-			  - Script All
-			  - Script All
-			  - Script Firewall-Bypass
-			  - Script HTTP-WAF-Detect
-			  - Script FTP-Vsftpd-Backdoor
-			  - Script SMB-Vuln-MS17-010
+			- Script Safe
+			- Script Deafult
+		    	- Script Vuln
+			- Script All
+			- Script All
+			- Script Firewall-Bypass
+			- Script HTTP-WAF-Detect
+			- Script FTP-Vsftpd-Backdoor
+			- Script SMB-Vuln-MS17-010
 
-      - Fuerza Bruta / Diccionario:
-			  - Script HTTP-ENUM
-			  - Script FTP-Brute
-			  - Script SSH-Brute
-			  - Script DNS-Brute
-			  - Script HTTP-WordPress-Brute
-			  - Script HTTP-WordPress-Enum
+      		- Fuerza Bruta / Diccionario:
+			- Script HTTP-ENUM
+			- Script FTP-Brute
+			- Script SSH-Brute
+			- Script DNS-Brute
+			- Script HTTP-WordPress-Brute
+			- Script HTTP-WordPress-Enum
 
 [+] AIRCRACK-NG:
-    	- Cracking WPA/WPA2-PSK
+	- Cracking WPA/WPA2-PSK
 	
 [+] WIFITE:
-	    - Cracking PIN WPS	    
+	- Cracking PIN WPS	    
  	    	
 [+] CRUNCH:
-	    - Generar diccionarios
+	- Generar diccionarios
 	
 [+] ETTERCAP:
-	    - Ataque MITM
+	- Ataque MITM
 
 [+] NIKTO:
-	    - Escaneo de vulnerabildiades en servidores web
+	- Escaneo de vulnerabildiades en servidores web
 
 [+] METASPLOIT: 
-	    - Exploits, Payloads, Auxiliarys, Encoders
-	    - Ejecutar exploit en servidor web HTTP y HTTPS
-	    - Vulnerar dispositivo Android
-	    - Evadir Antivirus
-	    - Capture The Flag
-      - Explotar vulnerabilidad EternalBlue - Windows
-		  - Fuerza Bruta al protocolo SSH
-		  - Denegacion de Servicio (Slowloris):
-			- Con Metasploit
-			- Manual
+	- Exploits, Payloads, Auxiliarys, Encoders
+	- Ejecutar exploit en servidor web HTTP y HTTPS
+	- Vulnerar dispositivo Android
+	- Evadir Antivirus
+	- Capture The Flag
+      	- Explotar vulnerabilidad EternalBlue - Windows
+	- Fuerza Bruta al protocolo SSH
+	- Denegacion de Servicio (Slowloris):
+		- Con Metasploit
+		- Manual
 
 [+] JOHN THE RIPPER:
-	    - Cracking de usuarios
-      - Cracking de Hashes:
-			  - MD4
-			  - RipeMD-128
-			  - SHA512
+	- Cracking de usuarios
+	- Cracking de Hashes:
+		- MD4
+		- RipeMD-128
+		- SHA512
 
 [+] WIRESHARK:
-	    - Sniffing
-	    - Protocolos
-	    - Filtros
+	- Sniffing
+	- Protocolos
+	- Filtros
 
 [+] PROXYCHAINS:
-	    - Enrutar tráfico bajo la red TOR #1
+	- Enrutar tráfico bajo la red TOR #1
 	
 [+] SQLMAP:
-	    - Inyección SQL a base de datos
+	- Inyección SQL a base de datos
 
 [+] SETOOLKIT:
-	    - Email Spoofing
-  	  - QR Code Attack (Phishing)
+	- Email Spoofing
+	- QR Code Attack (Phishing)
 
 [+] NETDISCOVER:
-	    - Sondeo de redes inalámbricas
+	- Sondeo de redes inalámbricas
 
 [+] ANONSURF:
-	    - Enrutar tráfico bajo la red TOR #2
+	- Enrutar tráfico bajo la red TOR #2
 	
 [+] TORGHOST:
-	    - Enrutar tráfico bajo la red TOR #3
+	- Enrutar tráfico bajo la red TOR #3
 
 [+] MACCHANGER:
-	    - Cambiar dirección MAC
-      - Cambiar dirección MAC a dispositivo NSA
+	- Cambiar dirección MAC
+	- Cambiar dirección MAC a dispositivo NSA
 
 [+] ANGRY IP SCANNER:
-	    - Escanear direcciones IP y puertos de hosts
+	- Escanear direcciones IP y puertos de hosts
 
 [+] KISMET:
-	    - Detección y rastreo de dispositivos en una red / Wardriving
+	- Detección y rastreo de dispositivos en una red / Wardriving
 	
 [+] BETTERCAP:
- 	    - Módulos
-	    - Capturar credenciales (Sniffing)
+	- Módulos
+	- Capturar credenciales (Sniffing)
 	    
 [+] WPSCAN:
-	    - Detectar vulnerabilidades en WordPress
+	- Detectar vulnerabilidades en WordPress
 
 [+] THC HYDRA:
-	    - Cracking login
-	    - Cracking MetaSploitable (SSH)
-      
-[+] SHRED - AntiForense:
-		  - Borrado de datos seguros 
+	- Cracking login
+	- Cracking MetaSploitable (SSH) 
 
 [+] BURP SUITE:
-		  - Método GET y POST
-		  - Explotar vulnerabilidad File Upload con Burp Suite + Weevely
+	- Método GET y POST
+	- Explotar vulnerabilidad File Upload con Burp Suite + Weevely
 
 [+] ESCALAR PRIVILEGIOS:
-		  - Explicación
-		  - Abuso de Sudoers 
-		  - Abuso de permisos SUID
+	- Explicación
+	- Abuso de Sudoers 
+	- Abuso de permisos SUID
 
 [+] HASH-IDENTIFIER:
-		  - ¿Qué es un Hash?
-		  - Tipos de hashes
-		  - Identificación de hash
-		  - Hash Cracking MD5 y SHA-1 con JohnTheRipper
+	- ¿Qué es un Hash?
+	- Tipos de hashes
+	- Identificación de hash
+	- Hash Cracking MD5 y SHA-1 con JohnTheRipper
 
 [+] SEARCHSPLOIT:
-		  - ¿Qué es un exploit?
-		  - Búsqueda de exploits
+	- ¿Qué es un exploit?
+	- Búsqueda de exploits
 
 [+] NETCAT:
-		  - Escaneo de puertos
-		  - Transferencia de archivos
-		  - Descubrir tipo de servidor web corriendo
-		  - Bind Shell
-		  - Reverse Shell
+	- Escaneo de puertos
+	- Transferencia de archivos
+	- Descubrir tipo de servidor web corriendo
+	- Bind Shell
+	- Reverse Shell
 
 [+] DIRBUSTER:
-		  - Ataque de recorrido de ruta
-			- Escaneo de directorios y archivos web [GUI]
+	- Ataque de recorrido de ruta
+	- Escaneo de directorios y archivos web [GUI]
 
 [+] DIRB:
-		  - Ataque de recorrido de ruta
-			- Escaneo de directorios y archivos web [TERMINAL]
+	- Ataque de recorrido de ruta
+	- Escaneo de directorios y archivos web [TERMINAL]
 
 [+] The Harvester:
-		  - Recopilar información de un dominio:
-			- Búsqueda de correos electrónicos
-			- Identificación de hosts
-			- Direcciones IP y puertos abiertos con Shodan / PyShodan
+	- Recopilar información de un dominio:
+	- Búsqueda de correos electrónicos
+	- Identificación de hosts
+	- Direcciones IP y puertos abiertos con Shodan / PyShodan
 
 [+] MDK4:
-		  - Deauthentication / DoS Attack
-		  - Beacon Flooding / Fake AP Attack
-		  - Authentication / Fake Clients Attack
-		  - SSID Probing and Bruteforcing Attack
-		  - Michael Countermeasures Exploitation Attack
+	- Deauthentication / DoS Attack
+	- Beacon Flooding / Fake AP Attack
+	- Authentication / Fake Clients Attack
+	- SSID Probing and Bruteforcing Attack
+	- Michael Countermeasures Exploitation Attack
 
 [+] MASSCAN:
-		  - Escaneo de puertos a alta velocidad
+	- Escaneo de puertos a alta velocidad
 	
 [+] NCRACK:
-		  - Fuerza Bruta:
-			- Cracking SSH Protocol 
-			- Cracking FTP Protocol
-			- Cracking SMB Protocol
+	- Fuerza Bruta:
+	- Cracking SSH Protocol 
+	- Cracking FTP Protocol
+	- Cracking SMB Protocol
 
 [+] STEGHIDE:
-		  - Esteganografía:
-			- Incrustar datos en una imagen
-			- Incrustar datos en un audio
+	- Esteganografía:
+		- Incrustar datos en una imagen
+		- Incrustar datos en un audio
 
 [+] WAFW00F:
-		  - ¿Qué es un WAF (Firewall)?
-		  - Identificación de WAF
-
+	- ¿Qué es un WAF (Firewall)?
+	- Identificación de WAF
 ```
 
 ```
