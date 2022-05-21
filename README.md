@@ -151,7 +151,7 @@ Utilizar herramientas creadas por otros no te hace un script kiddie. Utilizar he
 		- Ataque de recorrido de ruta:
 			- Escaneo de directorios y archivos web [TERMINAL]
 
-	[+] The Harvester:
+	[+] THE HARVESTER:
 		- Recopilar información de un dominio:
 		- Búsqueda de correos electrónicos
 		- Identificación de hosts
@@ -196,7 +196,7 @@ Páginas: 198
 ➤ https://www.mediafire.com/file/j25f3wpyaxemzm5/RoadToHacking.pdf/file
 
 ![#FB3027](https://via.placeholder.com/15/FB3027/000000?text=+) `MEGA`
-➤ https://mega.nz/file/AaM3mTjQ#n1osUzPU__cn4duPRwlRhAJw15CwHG5dNzNslmz-VdY
+➤ 
 
 ![#FB3027](https://via.placeholder.com/15/FBFF00/000000?text=+) `Online`
 ➤ https://www.yumpu.com/es/document/view/66892156/road-to-hacking
