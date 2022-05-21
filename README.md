@@ -195,7 +195,7 @@ Peso: 25.6 MB
 ➤ https://www.mediafire.com/file/j25f3wpyaxemzm5/RoadToHacking.pdf/file
 
 ![#FB3027](https://via.placeholder.com/15/FB3027/000000?text=+) `MEGA`
-➤ https://mega.nz/fileAaM3mTjQ#n1osUzPU__cn4duPRwlRhAJw15CwHG5dNzNslmz-VdY
+➤ https://mega.nz/file/AaM3mTjQ#n1osUzPU__cn4duPRwlRhAJw15CwHG5dNzNslmz-VdY
 
 ![#FB3027](https://via.placeholder.com/15/FBFF00/000000?text=+) `Online`
 ➤ https://www.yumpu.com/es/document/view/66892156/road-to-hacking
