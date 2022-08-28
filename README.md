@@ -4,7 +4,9 @@ Road To Hacking es una revista o mejor dicho, un manual para todo aquel apasiona
 
 Utilizar herramientas creadas por otros no te hace un script kiddie. Utilizar herramientas creadas por otros con fines dañinos o alardear frente a personas que carecen de conocimientos del tema, te hace script kiddie.
 
-![roadtohacking](https://user-images.githubusercontent.com/75953873/106670793-4442fe00-658c-11eb-86b0-04124296ad52.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/75953873/106670793-4442fe00-658c-11eb-86b0-04124296ad52.png">
+</p>
 
 ## CONTENIDO:
 
