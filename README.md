@@ -1,6 +1,6 @@
 # Road To Hacking
 
-Road To Hacking es una revista o mejor dicho, un manual para todo aquel apasionado/a por el Hacking Ético y quiera adentrarse a este mundo. La idea de RTH fue centrarse en las herramientas más utilizadas en un examen de Pentesting u auditoría con ejemplos de ataques más comunes en la actualidad. Es necesario contar con básicos conocimientos de Linux (moverse por la terminal) para exprimir al máximo esta información, recuerda que todo depende de ti en profundizar y nunca quedarse estancado con la primera información que encuentren.
+Road To Hacking es una revista, o más bien, un manual dirigido a todos aquellos apasionados por el Hacking Ético que deseen adentrarse en este fascinante mundo. El objetivo de RTH es ofrecer una guía enfocada en las herramientas más utilizadas durante un examen de Pentesting o auditoría, presentando ejemplos de los ataques más comunes en la actualidad. Para sacar el máximo provecho de esta información, es importante contar con conocimientos básicos de Linux, especialmente en cuanto al manejo de la terminal. Recuerda que todo depende de ti: profundiza y nunca te quedes atrapado en la primera información que encuentres.
 
 Utilizar herramientas creadas por otros no te hace un script kiddie. Utilizar herramientas creadas por otros con fines dañinos o alardear frente a personas que carecen de conocimientos del tema, te hace script kiddie.
 
@@ -202,3 +202,8 @@ LEER ONLINE: https://www.yumpu.com/es/document/view/66892156/road-to-hacking
 
 LIBRE DE VIRUS: https://www.virustotal.com/gui/file/042267b904834aee54a0cf2ec8bcd65e99d3e7a18b75d67e1349b4eebc19c250
 
+<h1 align="center"></h1>
+
+</br>
+
+<h4 align="center">Un agradecimiento especial para aquellos que compartieron la revista.</h4>
