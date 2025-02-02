@@ -8,6 +8,8 @@ Utilizar herramientas creadas por otros no te hace un script kiddie. Utilizar he
   <img src="https://user-images.githubusercontent.com/75953873/106670793-4442fe00-658c-11eb-86b0-04124296ad52.png">
 </p>
 
+#### Versión: 2.0
+
 ## CONTENIDO:
 
 ```
